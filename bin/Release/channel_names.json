@@ -1,0 +1,16 @@
+[{"id":"1","name":"Trending Apps","type":"apps","key":"trendingapps"},
+{"id":"16","name":"Top Apps","type":"apps","key":"topapps"},
+{"id":"10","name":"Cards & Casino","type":"apps","key":"cardsandcasino"},
+{"id":"3","type":"apps","key":"socialandcommunication","name":"Social & Communication"},
+{"id":"4","key":"simulationandrpggames","type":"apps","name":"Simulation & RPG Games"},
+{"key":"actionandadventure","type":"apps","name":"Action & Adventure","id":"5"},
+{"key":"arcadeandstrategy","type":"apps","name":"Arcade & Strategy","id":"6"},
+{"type":"apps","key":"audioandvideo","name":"Audio & Video","id":"7"},
+{"type":"apps","key":"booksandnews","name":"Books & News","id":"8"},
+{"id":"9","key":"brainteasers","type":"apps","name":"Brain Teasers"},
+{"type":"apps","key":"kidsandcreativity","name":"Kids & Creativity","id":"11"},
+{"id":"12","key":"racinggames","type":"apps","name":"Racing Games"},
+{"name":"Sports Games","key":"sportsgames","type":"apps","id":"13"},
+{"id":"14","key":"toolsandproductivity","type":"apps","name":"Tools & Productivity"},
+{"name":"Casual & Comics","key":"Casual & Comics","type":"apps","id":"15"}
+]
